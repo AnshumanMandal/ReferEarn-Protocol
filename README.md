@@ -1,4 +1,4 @@
-# ReferEarn Protocol
+# Project Name: ReferEarn Protocol
 
 ---
 
