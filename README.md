@@ -9,8 +9,7 @@ This project incentivizes players to refer new users to a platform by rewarding 
 ---
 
 ## Contract Address
-0xd9145CCE52D386f254917e481eB44e9943F39138
-
+0xe42322516638621e3fd0899dF67125FA34df556A
 
 ---
 
