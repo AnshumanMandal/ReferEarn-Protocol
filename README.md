@@ -1,5 +1,4 @@
-# Project Title
-ReferEarn Protocol
+#ReferEarn Protocol
 
 ---
 
